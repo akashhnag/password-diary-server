@@ -8,5 +8,5 @@ const { PORT } = process.env;
 const app: Express = express();
 
 app.listen(PORT, () => {
-    console.log(`Server listening at port ${PORT}..`);
+  console.log(`Server listening at port ${PORT}..`);
 });
