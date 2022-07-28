@@ -1,2 +1,2 @@
 [x] Implement eslint
-[] Implement husky
+[x] Implement husky
