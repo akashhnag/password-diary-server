@@ -1,2 +1,10 @@
 [x] Implement eslint
 [x] Implement husky
+[x] db setup
+[] logger
+[x] json validation
+[] password encryption
+[] apis
+    [x]user registration
+
+*) use env variables for mongodb details
